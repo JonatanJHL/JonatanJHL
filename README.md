@@ -92,7 +92,7 @@ Universidad Autónoma de la Ciudad de México (UACM) · 2025
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/jonatan-joaquin-hidalgo-ledesma/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatan-joaquin-hidalgo-ledesma/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jonatanhidalgoledesma@gmail.com)
 
 ---
