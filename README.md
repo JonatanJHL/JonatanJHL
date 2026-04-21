@@ -27,6 +27,7 @@ Egresado de la **Universidad Autónoma de la Ciudad de México (UACM)** con Lice
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth_2.0-4285F4?style=flat&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_SSH-FCC624?style=flat&logo=linux&logoColor=black)
+![Ollama](https://mintcdn.com/ollama-9269c548/XefrxzvUktkk84RL/images/logo-dark.png?fit=max&auto=format&n=XefrxzvUktkk84RL&q=85&s=c214b467f5623414c31d4e05c66110fb)
 
 ---
 
@@ -72,6 +73,10 @@ Scripts de automatización ejecutados periódicamente vía SSH: alertas de factu
 ---
 
 ## 🚀 Proyectos personales
+
+### [AskBot](https://github.com/JonatanJHL/AskBot)
+🤖 Asistente de IA Open Source que permite consultar tu base de datos MySQL usando lenguaje natural en español. Sin conocer SQL, tus usuarios pueden hacer preguntas como "¿Cuántos clientes tenemos?" y el bot genera automáticamente la consulta.
+>PHP · MySQL · Ollama · Open Router · Telegram API · WhatsApp API
 
 ### [Task Manager Pro](https://github.com/JonatanJHL/Task_Manager_Pro-)
 Aplicación full-stack de gestión de tareas con sistema Kanban, drag & drop, comentarios, archivos adjuntos, analytics interactivos y notificaciones por email automatizadas.
