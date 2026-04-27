@@ -77,15 +77,19 @@ Scripts de automatización ejecutados periódicamente vía SSH: alertas de factu
 
 ### [AskBot](https://github.com/JonatanJHL/AskBot)
 🤖 Asistente de IA Open Source que permite consultar tu base de datos MySQL usando lenguaje natural en español. Sin conocer SQL, tus usuarios pueden hacer preguntas como "¿Cuántos clientes tenemos?" y el bot genera automáticamente la consulta.
->PHP · MySQL · Ollama · Open Router · Telegram API · WhatsApp API
+> PHP · MySQL · Ollama · Open Router · Telegram API · WhatsApp API
 
 ### [Task Manager Pro](https://github.com/JonatanJHL/Task_Manager_Pro-)
 Aplicación full-stack de gestión de tareas con sistema Kanban, drag & drop, comentarios, archivos adjuntos, analytics interactivos y notificaciones por email automatizadas.
 > Node.js · Express · React · MySQL · JWT · Resend
 
-### [SQLQuest](https://github.com/JonatanJHL/SQLQuest)
-Juego educativo e interactivo donde el jugador avanza niveles ejecutando comandos SQL reales sobre una base de datos ficticia. Construido con HTML y JavaScript puro.
+### [SQLQuest](https://github.com/JonatanJHL/SQLQuest) *(App en desarrollo 🚀)*
+Juego educativo e interactivo donde el jugador avanza niveles ejecutando comandos SQL reales sobre una base de datos ficticia. Nació como prototipo web y está evolucionando hacia una aplicación completa próxima a lanzarse.
 > HTML · JavaScript · SQL
+
+### [Flappy Visión](https://github.com/JonatanJHL/flappy_Vison)
+🪿 Versión de Flappy Bird controlada exclusivamente por el movimiento de tu cabeza, detectado en tiempo real mediante **MediaPipe Face Mesh** y **OpenCV**. Sin teclado — solo tu cara y tu cuello.
+> Python · OpenCV · MediaPipe · Pygame · Computer Vision
 
 ---
 
