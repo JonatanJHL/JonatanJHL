@@ -93,6 +93,18 @@ Juego educativo e interactivo donde el jugador avanza niveles ejecutando comando
 
 ---
 
+## 🦎 Xolito — Extensión para VS Code
+
+[![VS Marketplace](https://img.shields.io/visual-studio-marketplace/v/xolito.xolito-vscode?label=VS%20Marketplace&logo=visual-studio-code&color=0066b8)](https://marketplace.visualstudio.com/items?itemName=xolito.xolito-vscode)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/xolito.xolito-vscode?label=Instalaciones)](https://marketplace.visualstudio.com/items?itemName=xolito.xolito-vscode)
+[![Made in Mexico](https://img.shields.io/badge/Hecho%20en-México%20🇲🇽-green)](https://github.com/JonatanJHL/pet_mexican)
+
+Tu ajolote regañón para VS Code. Detecta errores, te regaña con cariño y habla español mexicano — porque el código mexicano merece una experiencia mexicana.
+
+> 🔗 [Instalar desde el Marketplace](https://marketplace.visualstudio.com/items?itemName=xolito.xolito-vscode) · 📦 [Código fuente](https://github.com/JonatanJHL/pet_mexican)
+
+---
+
 ## 🎓 Formación
 
 **Licenciatura en Ingeniería de Software**
