@@ -30,6 +30,9 @@ Egresado de la **Universidad Autónoma de la Ciudad de México (UACM)** con Lice
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=flat&logo=ollama)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-AI_Gateway-purple?style=flat&logo=openrouter)
 
+**Mobile**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ---
 
 ## 💼 Experiencia profesional
@@ -90,6 +93,17 @@ Juego educativo e interactivo donde el jugador avanza niveles ejecutando comando
 ### [Flappy Visión](https://github.com/JonatanJHL/flappy_Vison)
 🪿 Versión de Flappy Bird controlada exclusivamente por el movimiento de tu cabeza, detectado en tiempo real mediante **MediaPipe Face Mesh** y **OpenCV**. Sin teclado — solo tu cara y tu cuello.
 > Python · OpenCV · MediaPipe · Pygame · Computer Vision
+
+### [SQLQuest](https://github.com/JonatanJHL/SQLQuest) — RPG Educativo Android
+Juego educativo en Android donde el jugador aprende SQL ejecutando comandos reales
+para explorar mapas, combatir enemigos y avanzar niveles. Motor SQL propio construido
+en Kotlin que interpreta SELECT, INSERT, UPDATE, DELETE, COUNT, JOINs y subconsultas
+en tiempo real.
+- Arquitectura modular: GameEngine · GameData · MapGenerator · CombatOverlayView
+- Sistema de currículo progresivo con 6 zonas temáticas y quizzes integrados
+- Publicado como Android App Bundle (v3.0) · Target SDK 35 · minSdk 24
+
+> Kotlin · Android SDK · Custom SQL Engine · Material Design
 
 ---
 
